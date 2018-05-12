@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '33338'
     url: http://www.gutenberg.org/2009/agents/33338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28444#Turn-About-Eleanor
 gutenberg_issued: '2009-03-29'
 gutenberg_type: Text
 identifiers:
