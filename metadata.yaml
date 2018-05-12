@@ -1,0 +1,32 @@
+_repo: Turn-About-Eleanor_28444
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cootes, F. Graham
+    gutenberg_agent_id: '8148'
+    url: http://www.gutenberg.org/2009/agents/8148
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelley, Ethel M. (Ethel May)
+    birthdate: 1878
+    gutenberg_agent_id: '33338'
+    url: http://www.gutenberg.org/2009/agents/33338
+description: ''
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28444'
+  lccn: '17023983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+title: Turn About Eleanor
+url: http://www.gutenberg.org/ebooks/28444
